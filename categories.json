@@ -1,0 +1,52 @@
+[
+  {
+    "categoryName": "Beverages",
+    "description": "Soft drinks, coffees, teas, beers, and ales",
+    "createdDate": "2024-02-16T14:26:26.201Z"
+  },
+  {
+    "categoryName": "Condiments",
+    "description": "Sweet and savory sauces, relishes, spreads, and seasonings",
+    "createdDate": "2024-02-16T14:26:26.201Z"
+  },
+  {
+    "categoryName": "Confections",
+    "description": "Desserts, candies, and sweet breads",
+    "createdDate": "2024-02-16T14:26:26.201Z"
+  },
+  {
+    "categoryName": "Dairy Products",
+    "description": "Cheeses",
+    "createdDate": "2024-02-16T14:26:26.201Z"
+  },
+  {
+    "categoryName": "Grains/Cereals",
+    "description": "Breads, crackers, pasta, and cereal",
+    "createdDate": "2024-02-16T14:26:26.201Z"
+  },
+  {
+    "categoryName": "Meat/Poultry",
+    "description": "Prepared meats",
+    "createdDate": "2024-02-16T14:26:26.201Z"
+  },
+  {
+    "categoryName": "Produce",
+    "description": "Dried fruit and bean curd",
+    "createdDate": "2024-02-16T14:26:26.202Z"
+  },
+  {
+    "categoryName": "Seafood",
+    "description": "Seaweed and fish",
+    "createdDate": "2024-02-16T14:26:26.202Z"
+  },
+  {
+    "categoryName": "yeni",
+    "description": "yeni",
+    "createdDate": "2024-02-18T05:07:38.035Z"
+  },
+  {
+    "categoryName": "reder",
+    "description": "ede",
+    "createdDate": "2024-02-18T20:08:17.202Z"
+  }
+]
